@@ -4,7 +4,7 @@
 
 ## Recipes prepared
 
-- `Arepas`, `Burmese Chicken Curry`
+- `Arepas`, `Burmese Chicken Curry`, `Somali Spaghetti Sauce`
 
 # Skills earned
 
